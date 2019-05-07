@@ -1,0 +1,35 @@
+
+###########--Disclamer--##########
+
+Bem, não sou um programador para sistemas web faz uns anos. Como concentrei 
+meus esforços na área de jogos, fiquei bem defasado nessa área. Basicamente
+tudo que fiz nesse teste aprendi nessa semana. Mais alguns dias eu teria
+feito tudo que a especificação pediu. Perdi tempo em algumas configurações
+do sistema e problemas que parecem ser bem específicos do meu caso.
+
+Tento isso em vista, acho que irei evoluir muito nessa área caso eu venha
+trabalhar todos os dias nela. No final das contas, tudo é programação =)
+
+###########--O que faltou--#########
+
+- Sessão do usuário
+    - Se logar
+    - Troca de senha
+    - Bloquear programas quando usuário estiver logado
+- Mensagens de feedback quando uma ação é toma (inserção, deleção, erros e cia)
+- Definir dependencias entre tabelas (FK)
+- Reduzir saldo do usuário após transferencia
+
+###########--Sources--##########
+webserver:
+https://serverless-stack.com/chapters/add-the-session-to-the-state.html
+
+https://medium.com/@avanthikameenakshi/crud-react-express-99025f03f06e
+https://blog.cloudboost.io/react-express-the-nodejs-way-of-reacting-and-expressing-7a518e4da3
+
+https://mikeknoop.com/static/img/upload/91951fb06d9a11e69425a0999b1ab6eb.png
+https://designrevision.com/demo/shards-dashboard-lite-react/components-overview
+
+server:
+https://blog.rocketseat.com.br/nodejs-express-sequelize/
+https://stackabuse.com/using-sequelize-js-and-sqlite-in-an-express-js-app/
